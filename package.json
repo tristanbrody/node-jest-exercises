@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "doasync": "^2.0.1"
+    "doasync": "^2.0.1",
+    "prompt-sync": "^4.2.0",
+    "striptags": "^3.1.1"
   }
 }
